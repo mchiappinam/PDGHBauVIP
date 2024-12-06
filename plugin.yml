@@ -1,0 +1,9 @@
+name: PDGHBauVIP
+main: me.mchiappinam.pdghbauvip.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   bauvip:
+      description: Info.
+      usage: /<command>
